@@ -3,7 +3,7 @@
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
 
-![Edition template screenshot](images/_screenshot.png)
+![ML Exploring screenshot](images/_screenshot.png)
 
 Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
@@ -66,3 +66,9 @@ Edition is already optimised for adding, updating and removing documentation pag
 ### Navigation
 
 * Change `site.show_full_navigation` to control all or only the current navigation group being open.
+
+
+### Old repo:
+https://github.com/rajasgs/jekyll-theme-1
+https://github.com/rajasgs/edition-jekyll-template
+https://github.com/CloudCannon/edition-jekyll-template
