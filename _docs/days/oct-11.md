@@ -5,41 +5,23 @@ order: 1
 ---
 
 
-https://aigents.co/learn/roadmaps/data-science-roadmap
+ROC Curve:
+from sklearn.metrics import roc_curve
 
-https://aigents.co/learn/roadmaps/machine-learning-roadmap
+ROC AUC Curve:
+from sklearn.metrics import roc_auc_score
 
-https://www.youtube.com/@machinelearninguniversity1942/about
+Precision Recall Curve:
+from sklearn.metrics import precision_recall_curve
 
-There are five available courses: 
+Accuracy Score:
+from sklearn.metrics import accuracy_score
 
-Decision Trees
-Ensemble Methods
-Natural Language Processing
-Computer Vision
-Tabular Data
-Responsible AI
+confusion matrix:
+from sklearn.metrics import confusion_matrix
 
+FScore:
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 
-https://aws.amazon.com/machine-learning/mlu/
-https://mlu-explain.github.io/train-test-validation/
-
-https://mlu-explain.github.io/double-descent2/
-
-https://mlu-explain.github.io/double-descent2/
-
-https://github.com/aws-samples/aws-mlu-explain
-
-https://github.com/rajasgs/aws-mlu-explain/settings/pages
-
-MLU Accelerator learning series.
-
-MLU Courses / Machine Learning University
-https://www.youtube.com/@machinelearninguniversity1942/playlists
-
-NLP:
-https://www.youtube.com/watch?v=0FXKbEgz-uU&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw
-
-ML Topic with animation:
-https://github.com/rajasgs/aws-mlu-explain/settings/pages
-https://rajasgs.github.io/aws-mlu-explain/bias-variance/
+Average Precision Score:
+from sklearn.metrics import average_precision_score
